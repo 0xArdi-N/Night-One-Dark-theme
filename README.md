@@ -4,14 +4,14 @@
 
 Night One Dark is a stylish Visual Studio Code theme inspired by the popular Atom One Dark color scheme. It brings a modern and elegant look to your code editor, making your coding experience more enjoyable.
 
-## Features
+## 🌟 Key Features
 
 - Dark background with carefully selected color palette for optimal readability.
 - Designed to reduce eye strain during long coding sessions.
 - Syntax highlighting for various programming languages.
 - Consistent and harmonious colors across different file types.
 
-## Installation
+## 🔧 Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
 2. Search for `Night One Dark`.
@@ -32,6 +32,17 @@ If you find any issues or have suggestions to improve the theme, feel free to [c
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xArdi-N/Night-One-Dark-theme/blob/HEAD/LICENSE) file for details.
 
 ---
+
+## 📝 Customization
+
+Feel free to tweak the theme to your liking:
+
+- Open the command palette (Ctrl+Shift+P) and type **"Preferences: Open Settings (JSON)"**.
+- Customize colors by adding specific key-value pairs for different elements.
+
+## 🌐 Feedback & Contributions
+
+We would love to hear your feedback and suggestions! Feel free to report issues or contribute on our [GitHub repository](https://github.com/ardinugrxha/night-horizon).
 
 Enjoy coding with Night One Dark theme! If you like it, consider giving it a star on [GitHub](https://github.com/ardi-nugraha/Night-One-Dark-theme).
 
